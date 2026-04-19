@@ -52,7 +52,7 @@ const Index = () => {
               </span>
             </h1>
             <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto text-balance">
-              Helm is your AI co-pilot for the full career journey — from exploring options
+              Helium is your AI co-pilot for the full career journey — from exploring options
               to nailing the interview that gets you hired.
             </p>
             <div className="mt-10 flex flex-wrap items-center justify-center gap-3">
@@ -106,9 +106,9 @@ const Index = () => {
       <section className="container pb-24">
         <div className="rounded-3xl bg-hero p-10 md:p-14 text-primary-foreground shadow-elegant">
           <div className="max-w-2xl">
-            <p className="text-sm uppercase tracking-widest text-highlight font-semibold">Why Helm</p>
+            <p className="text-sm uppercase tracking-widest text-highlight font-semibold">Why Helium</p>
             <h2 className="mt-3 font-display text-3xl md:text-4xl font-bold text-balance">
-              Most tools tell you about a job. Helm asks if you're ready for it.
+              Most tools tell you about a job. Helium asks if you're ready for it.
             </h2>
             <p className="mt-4 text-primary-foreground/80 text-lg">
               We connect career discovery with the prep work that actually matters: a sharper resume

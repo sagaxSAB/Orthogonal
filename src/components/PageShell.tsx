@@ -8,8 +8,7 @@ export const PageShell = ({ children }: { children: ReactNode }) => {
       <main>{children}</main>
       <footer className="border-t border-border/60 mt-24">
         <div className="container py-8 text-sm text-muted-foreground flex items-center justify-between">
-          <span>© Helm — your AI career co-pilot</span>
-          <span>Built with Lovable Cloud + AI</span>
+          <span>© Helium — your AI career co-pilot</span>
         </div>
       </footer>
     </div>

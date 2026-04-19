@@ -1,6 +1,6 @@
-# Helm — AI Career Co-Pilot
+# Helium — AI Career Co-Pilot
 
-Helm is your AI co-pilot for the full career journey: explore careers, sharpen your resume, and practice live interviews with instant feedback.
+Helium is your AI co-pilot for the full career journey: explore careers, sharpen your resume, and practice live interviews with instant feedback.
 ---
 
 ## ✨ Features

@@ -18,7 +18,7 @@ export const SiteHeader = () => {
           <span className="grid h-8 w-8 place-items-center rounded-lg bg-hero text-primary-foreground shadow-soft">
             ⚓
           </span>
-          <span className="tracking-tight">Helm</span>
+          <span className="tracking-tight">Helium</span>
         </Link>
         <nav className="flex items-center gap-1">
           {links.map(({ to, label, icon: Icon }) => {
