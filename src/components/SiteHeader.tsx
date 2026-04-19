@@ -15,9 +15,6 @@ export const SiteHeader = () => {
     <header className="sticky top-0 z-40 border-b border-border/60 bg-background/80 backdrop-blur-xl">
       <div className="container flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-2 font-display font-bold text-lg">
-          <span className="grid h-8 w-8 place-items-center rounded-lg bg-hero text-primary-foreground shadow-soft">
-            ⚓
-          </span>
           <span className="tracking-tight">Helium</span>
         </Link>
         <nav className="flex items-center gap-1">

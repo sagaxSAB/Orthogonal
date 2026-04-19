@@ -17,7 +17,7 @@ Helium is your AI co-pilot for the full career journey: explore careers, sharpen
 |---|---|
 | Frontend | React 18, Vite 5, TypeScript 5, Tailwind CSS, shadcn/ui |
 | Routing / State | React Router, TanStack Query |
-| Backend | Lovable Cloud (Supabase Edge Functions) |
+| Backend | Lovable Cloud (Supabase Edge Functions) |f
 | AI | Lovable AI Gateway → Google Gemini (2.5 Flash / 3 Flash Preview) |
 | PDF parsing | pdfjs-dist |
 | Voice | MediaRecorder API + Gemini multimodal transcription |
