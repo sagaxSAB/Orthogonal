@@ -1,9 +1,6 @@
 # Helm — AI Career Co-Pilot
 
 Helm is your AI co-pilot for the full career journey: explore careers, sharpen your resume, and practice live interviews with instant feedback.
-
-Built for the hackathon with **React + Vite + TypeScript + Tailwind + Lovable Cloud (Supabase) + Lovable AI Gateway (Gemini)**.
-
 ---
 
 ## ✨ Features
@@ -45,18 +42,6 @@ npm run dev
 
 Open **http://localhost:8080** in your browser.
 
-> The `.env` file is auto-generated and already wired to the Lovable Cloud backend. No additional API keys are needed — AI calls go through the Lovable AI Gateway.
-
-### Other useful commands
-
-```bash
-npm run build      # Production build
-npm run preview    # Preview production build
-npm test           # Run vitest
-```
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -77,22 +62,3 @@ supabase/
 ```
 
 ---
-
-## 🧠 How the AI Works
-
-All edge functions call the **Lovable AI Gateway** at `https://ai.gateway.lovable.dev/v1/chat/completions` and use **OpenAI-style tool calling** to force structured JSON output. This means responses are always valid, typed objects — never free-form text the frontend has to parse.
-
----
-
-## 🌐 Deployment
-
-This project is deployed via Lovable. Edge functions deploy automatically on save.
-
-- **Preview:** see your Lovable project preview URL
-- **Publish:** click *Publish* in Lovable to get a live URL
-
----
-
-## 📝 License
-
-Built for hackathon submission.
